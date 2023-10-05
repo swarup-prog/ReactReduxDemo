@@ -1,4 +1,4 @@
-Summary:
+# Summary
 
 # How to initialize Redux in React?
 
