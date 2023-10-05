@@ -20,8 +20,8 @@ Summary:
 
 # How to add the things?
 
-=> Use the useDispatch method and pass in what functionality you want to use
+Use the useDispatch method and pass in what functionality you want to use
 
 # How to extract the data?
 
-=> Use the useSelector method which has access in the callback of the state and the state will give you whatever you need (not exactly whatever, just the states you have made LOL. Don't expect it to fulfil all yor wishes XD).
+Use the useSelector method which has access in the callback of the state and the state will give you whatever you need (not exactly whatever, just the states you have made LOL. Don't expect it to fulfil all yor wishes XD).
